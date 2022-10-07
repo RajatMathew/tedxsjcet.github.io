@@ -8,3 +8,12 @@
 
 }
 
+.theme2 {
+    position: relative;
+}
+
+#play-video {
+    position: absolute;
+    bottom: 30px;
+
+}
