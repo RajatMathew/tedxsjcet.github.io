@@ -1,0 +1,10 @@
+@media screen and (max-width: 700px)
+{
+.theme2 h1, .pricing h1, #speaker-head {
+    font-size: 50px !important;
+    letter-spacing: -1px !important;
+    /* text-decoration: underline; */
+}
+
+}
+
